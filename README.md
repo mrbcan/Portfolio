@@ -3,19 +3,19 @@ MY PROJECTS
 -  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
 
 ## SpeakSTU-2022
- We are developing our project as a cross-platform with Flutter so that it can run on both Ios and Android devices. I developed my project as a cross-platform with Flutter so that it can run on both Ios and Android devices. I created the back-end infrastructure with NodeJS. I keep data with MongoDB. Its target audience is university students and academics. By creating an extraordinary ecosystem with universities, academics and students among our stakeholders, I plan to create a more efficient and effective order by increasing the interaction between the campus and the Institutions.
+ We are developing our project as a cross-platform with Flutter so that it can run on both Ios and Android devices. We developed my project as a cross-platform with Flutter so that it can run on both Ios and Android devices. We designed the UI with Flutter/Dart and   created the back-end infrastructure with NodeJS. We keep data with MongoDB. Its target audience is university students and academics. By creating an extraordinary ecosystem with universities, academics and students among our stakeholders, We plan to create a more efficient and effective order by increasing the interaction between the campus and the Institutions.
  
-  #### I am using MVVM software architecture for frontend.
+  #### We are using MVVM software architecture for frontend.
 <p align="left">
     <img src="https://user-images.githubusercontent.com/72016623/169648189-00f8da40-4613-4cd8-85b3-3aba36aef82e.png" width="300" height="400">
   </p>
 
-#### I am using Model-Routes-Controllers structure for backend.
+#### We are using Model-Routes-Controllers structure for backend.
  <p align="left">
     <img src="https://user-images.githubusercontent.com/72016623/169648370-3318b887-13bb-4e9b-8cb2-07e23e898b84.PNG" width="300" height="400">
   </p>
   
-  Technologies I use;
+  Technologies We use;
 - Dart-Flutter (state-management MOBX)
 - Node.js
 - MongoDB
