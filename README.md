@@ -1,8 +1,8 @@
 # Portfolyo
 MY PROJECTS
 -  [How-Re-You-](https://github.com/mrbcan/How-Re-You-) 
--  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
--  ['My ML Library'](https://github.com/mrbcan/Machine-Learning-Library) - Flutter Design
+-  [SpeakSTU](https://speakstu.com/) 
+-  [My ML Library](https://github.com/mrbcan/Machine-Learning-Library) 
 -  [Predict_data_stock_ML_DL](https://github.com/mrbcan/Predict_data_stock_ML_DL) 
 -  [Clean the Water](https://github.com/mrbcan/Clean-the-Water) 
 -  [BaseBuy](https://github.com/mrbcan/BaseBuy)
