@@ -1,7 +1,12 @@
 # Portfolyo
 MY PROJECTS
+-  [How-Re-You-](https://github.com/mrbcan/How-Re-You-) 
 -  [SpeakSTU](https://speakstu.com/) - Flutter Mobile App
--  [MACHINE LEARNING LIBRARY]
+-  ['My ML Library'](https://github.com/mrbcan/Machine-Learning-Library) - Flutter Design
+-  [Predict_data_stock_ML_DL](https://github.com/mrbcan/Predict_data_stock_ML_DL) 
+-  [Clean the Water](https://github.com/mrbcan/Clean-the-Water) 
+-  [BaseBuy](https://github.com/mrbcan/BaseBuy)
+
 
 ## SpeakSTU-2022
  We are developing our project as a cross-platform with Flutter so that it can run on both Ios and Android devices. We developed my project as a cross-platform with Flutter so that it can run on both Ios and Android devices. We designed the UI with Flutter/Dart and   created the back-end infrastructure with NodeJS. We keep data with MongoDB. Its target audience is university students and academics. By creating an extraordinary ecosystem with universities, academics and students among our stakeholders, We plan to create a more efficient and effective order by increasing the interaction between the campus and the Institutions.
