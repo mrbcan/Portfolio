@@ -6,6 +6,7 @@ MY PROJECTS
 -  [Predict_data_stock_ML_DL](https://github.com/mrbcan/Predict_data_stock_ML_DL) 
 -  [Clean the Water](https://github.com/mrbcan/Clean-the-Water) 
 -  [BaseBuy](https://github.com/mrbcan/BaseBuy)
+-  [Find Landline](https://github.com/mrbcan/Find-Landline)
 
 
 ## SpeakSTU-2022
